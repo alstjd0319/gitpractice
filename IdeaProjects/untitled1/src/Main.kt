@@ -8,7 +8,7 @@ fun main() {
     question.question6()
 }
 
-
+//
 
 class Question {
     fun question1(): List<Int> {
